@@ -45,17 +45,17 @@ step 2: Install Required Packages
 
 step 3: Capture Student Faces
 
-**bash**
+```bash```
 - python -m src.capture_faces (Captures ~30 images per student.)
 
 step 4: Train the Model
 
-**bash**
+```bash```
 - python -m src.train_model (Generates face encodings.)
 
 step 5: Recognize Faces & Mark Attendance
 
-**bash**
+```bash```
 - python -m src.recognize_faces (Attendance is marked automatically when a face is recognized.)
 
 
