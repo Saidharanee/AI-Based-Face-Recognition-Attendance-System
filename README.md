@@ -1,13 +1,17 @@
 # AI-Based-Face-Recognition-Attendance-System
 
-**Project Overview**
+### Project Overview
 This system captures facial images of students, trains a face recognition model, and later recognizes faces using a camera to automatically mark attendance in an SQLite database.
 
 ### Project Flow
 1.Face Registration – Capture multiple images of a student using a webcam
+
 2.Model Training – Generate and store face encodings
+
 3.Face Recognition – Recognize faces from live video
+
 4.Attendance Marking – Store attendance automatically in SQLite database
+
 5.Data Export – Export attendance records to CSV for easy viewing and reporting
 
 ### Tech Stack
@@ -19,20 +23,22 @@ This system captures facial images of students, trains a face recognition model,
 
 ### Steps to Run the Project
 step 1: Create & Activate Virtual Environment
-bash 
-python -m venv venv310
-venv310\Scripts\activate
+
+**bash** 
+-python -m venv venv310
+-venv310\Scripts\activate
 
 step 2: Install Required Packages
-opencv-python==4.8.0.76
-numpy==1.24.4
-imutils==0.5.4
-pillow==12.1.0
-face-recognition==1.3.0
-face-recognition-models==0.3.0
-dlib-bin==19.24.6
-pandas==2.3.3
-reportlab==4.4.9
+
+-opencv-python==4.8.0.76
+-numpy==1.24.4
+-imutils==0.5.4
+-pillow==12.1.0
+-face-recognition==1.3.0
+-face-recognition-models==0.3.0
+-dlib-bin==19.24.6
+-pandas==2.3.3
+-reportlab==4.4.9
 
 step 3: Capture Student Faces
 bash
@@ -48,7 +54,9 @@ python -m src.recognize_faces (Attendance is marked automatically when a face is
 
 ### View Attendance
 1.**SQLite DB**:
+
 -Open database/attendance.db using DB Browser for SQLite
+
 2.**CSV File**:
 -Open the exported exports/attendance.csv in Excel or any spreadsheet tool
 
