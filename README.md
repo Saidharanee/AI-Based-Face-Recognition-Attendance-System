@@ -3,6 +3,7 @@
 ### Project Overview
 This system captures facial images of students, trains a face recognition model, and later recognizes faces using a camera to automatically mark attendance in an SQLite database.
 
+
 ### Project Flow
 1.Face Registration – Capture multiple images of a student using a webcam
 
@@ -14,12 +15,14 @@ This system captures facial images of students, trains a face recognition model,
 
 5.Data Export – Export attendance records to CSV for easy viewing and reporting
 
+
 ### Tech Stack
 - Programming language - python 3.10.10  (Recommended to use Python 3.10.x for compatibility with dlib and face-recognition.)
 - AI/Vision - face-recognition, dlib, OpenCV
 - Core Libraries- numpy, pandas, imutils, pillow
 - Database - SQLite3
 - Environment - Python Virtual Environment (venv)
+
 
 ### Steps to Run the Project
 step 1: Create & Activate Virtual Environment
@@ -54,6 +57,7 @@ step 5: Recognize Faces & Mark Attendance
 
 **bash**
 - python -m src.recognize_faces (Attendance is marked automatically when a face is recognized.)
+
 
 ### View Attendance
 1.**SQLite DB**:
