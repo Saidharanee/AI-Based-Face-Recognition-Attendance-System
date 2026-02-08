@@ -27,9 +27,9 @@ This system captures facial images of students, trains a face recognition model,
 ### Steps to Run the Project
 step 1: Create & Activate Virtual Environment
 
-**bash** 
+```bash```
 - python -m venv venv310
-- venv310\Scripts\activate
+- venv310\Scripts\activate 
 
 step 2: Install Required Packages
 
