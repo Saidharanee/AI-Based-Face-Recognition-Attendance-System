@@ -68,6 +68,21 @@ step 5: Recognize Faces & Mark Attendance
 
 -Open the exported exports/attendance.csv in Excel or any spreadsheet tool
 
+# Screenshots
+### While capturing face
+https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/while%20%20capturing%20face.png
+
+### While taking attendace
+https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/while%20taking%20attendance.png
+
+### Marked Attendance in Database
+https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/DB_attendance.png
+
+### Marked Attendace in CSV file
+https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/csv_attendance.png
+
+
+
 
 
 
