@@ -73,13 +73,13 @@ step 5: Recognize Faces & Mark Attendance
 ![Face Capturing](screenshots/while%20%20capturing%20face.png)
 
 ### While taking attendace
-https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/while%20taking%20attendance.png
+![Marking Attendance](screenshots/while%20taking%20attendance.png)
 
 ### Marked Attendance in Database
-https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/DB_attendance.png
+![Database Attendance](screenshots/DB_attendance.png)
 
 ### Marked Attendace in CSV file
-https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/csv_attendance.png
+![CSV_File](screenshots/csv_attendance.png)
 
 
 
