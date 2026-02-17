@@ -70,7 +70,7 @@ step 5: Recognize Faces & Mark Attendance
 
 # Screenshots
 ### While capturing face
-https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/while%20%20capturing%20face.png
+![Face Capturing](screenshots/while%20%20capturing%20face.png)
 
 ### While taking attendace
 https://github.com/Saidharanee/AI-Based-Face-Recognition-Attendance-System/blob/main/screenshots/while%20taking%20attendance.png
